@@ -1,0 +1,27 @@
+.game-grid {
+    width: 250px;
+    margin: auto;
+}
+
+.details {
+    display: flex;
+    justify-content: space-around;
+}
+
+.grid-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.row td {
+    border: 1px solid;
+    padding: 25px;
+}
+
+.visited {
+    cursor: not-allowed;
+}
+
+.winner-section {
+    margin: 25px;
+}

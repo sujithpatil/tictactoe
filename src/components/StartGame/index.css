@@ -1,0 +1,11 @@
+.start-button {
+    border: none;
+    background-image: linear-gradient(to right , #F79F1F , #FFC312);
+    padding: 15px 45px;
+    cursor: pointer;
+}
+
+.start-game {
+    width: 100%;
+    text-align: center;
+}
